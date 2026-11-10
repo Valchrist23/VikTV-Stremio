@@ -1,0 +1,14 @@
+{
+  "name": "viktv-stremio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
